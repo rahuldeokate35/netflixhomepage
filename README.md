@@ -1,5 +1,5 @@
 ## 🖥️ Live Demo
 
-**Check out the live portfolio here:** [🔗 View Portfolio](https://netlifix-homepage.netlify.app)
+**Check out the live portfolio here:** [🔗 View Netflix](https://netlifix-homepage.netlify.app)
 
 ---
